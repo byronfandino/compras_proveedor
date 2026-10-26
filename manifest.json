@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Compras Offiesco",
+  "short_name": "Offiesco",
+  "description": "Referencias y cantidades de compra, disponibles sin conexión.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFD2C9",
+  "theme_color": "#FFD2C9",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='44' fill='%23FFD2C9'/%3E%3Ctext x='96' y='132' text-anchor='middle' font-family='Georgia,serif' font-size='132' font-style='italic' fill='%237A0C0C'%3EO%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
